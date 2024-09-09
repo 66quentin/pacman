@@ -1,4 +1,4 @@
-Jeu en C++ Pacman programmé par Quentin Guardia (qguardia66@gmail.com)
+Jeu en C++ Pacman programmé par Quentin Guardia (quentin.guardia@protonmail.com)
 Toutes les images sont personnelles.
 
 Compiler le jeu:
